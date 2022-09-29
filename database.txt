@@ -1,0 +1,7 @@
+1,cucumber,12500.0,1870
+2,tomato,7000.0,485
+3,watermelon,11300.0,400
+4,bananaaa,37000.0,41000
+5,pineapple,169000.0,345
+6,potato,9500.0,937
+7,turnip,13000.0,482
